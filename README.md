@@ -1,1 +1,1 @@
-"creating tables in sqllite database browser"
+"Still learning sql"
