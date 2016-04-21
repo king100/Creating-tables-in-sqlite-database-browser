@@ -1,7 +1,7 @@
-# # Create a SQLite3 database and table
+# Create a SQLite3 database and table
 
 
-#  import the sqlite3 library
+# import the sqlite3 library
 import sqlite3
 
 # create the connection object
